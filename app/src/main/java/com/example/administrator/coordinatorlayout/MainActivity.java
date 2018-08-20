@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     {
         useConstraintLayout.setOnClickListener(this);
         useCoordinatorLayout.setOnClickListener(this);
+        useCoordinatorLayout.setOnClickListener(this);
     }
 
     @Override
