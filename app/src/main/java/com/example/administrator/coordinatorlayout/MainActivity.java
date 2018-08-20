@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     {
         useConstraintLayout = (Button) findViewById(R.id.use_constraint_layout);
         useCoordinatorLayout = (Button) findViewById(R.id.use_coordinator_layout);
-        useCoordinatorLayout = (Button) findViewById(R.id.use_coordinator_layout);
     }
 
     private void setListener()
